@@ -1,3 +1,3 @@
 # ICstudents
 
-Leiam o o PDF Guia_para_usar_dados_oticos primeiro. Sigam-no, e depois se aventurem no notebook.
+Primeiro, leiam e sigam o PDF Guia_para_usar_dados_oticos. Depois se aventurem no notebook.
